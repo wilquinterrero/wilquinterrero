@@ -88,3 +88,29 @@ Hola, soy Wilquin Terrero
 <img src="https://github-readme-stats.vercel.app/api?username=wilquinterrero&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilquinterrero&theme=tokyonight"/>
 </p>
+
+---
+
+<details>
+<summary>🇺🇸 English version</summary>
+
+### About me
+
+- 📊 Data analyst specialized in business intelligence and automation
+- 🧠 I turn data into useful information for business decisions
+- ⚙️ Experience with Python, SQL, and R for analysis and automation
+- 📈 I build data-driven solutions that improve business performance
+- 🚀 Currently working as a data analyst and available for freelance projects
+- 💬 Let's connect: I'm always interested in discussing data-driven projects
+- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/wilquin-terrero-p%C3%A9rez-8841b1230/)
+
+### Featured project
+
+**[SDQ Flight Monitor](https://github.com/wilquinterrero/monitor-vuelos-sdq)**: automated R pipeline that collects flights for SDQ airport through an API, stores them in MariaDB, and produces a daily email report, alerts, and a Power BI dashboard.
+
+### Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/wilquin-terrero-p%C3%A9rez-8841b1230/)
+- [Upwork](https://www.upwork.com/freelancers/~014c4098647d0b5962)
+
+</details>
