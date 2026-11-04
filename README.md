@@ -7,7 +7,7 @@ Hola, soy Wilquin Terrero
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=2500&color=C8BE25&center=true&vCenter=true&width=600&height=100&lines=📊+Análisis+de+datos;⚙️+Automatización+de+procesos;🧠+De+datos+a+decisiones;🐍+Python+%7C+SQL+%7C+R+%7C+Power+BI">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=2500&color=C8BE25&center=true&vCenter=true&width=600&height=100&lines=%F0%9F%93%8A+An%C3%A1lisis+de+datos;%E2%9A%99%EF%B8%8F+Automatizaci%C3%B3n+de+procesos;%F0%9F%A7%A0+De+datos+a+decisiones;%F0%9F%90%8D+Python+%7C+SQL+%7C+R+%7C+Power+BI">
 </a>
 </p>
 
