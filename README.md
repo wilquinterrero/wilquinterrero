@@ -1,37 +1,43 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">
-Hi, I'm Wilquin Terrero 
+Hola, soy Wilquin Terrero 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=📊+Data+Analyst;📈+Business+Intelligence+%26+Automation;🧠+Turning+Data+into+Insights;🐍+Python+%7C+🗄️+SQL+%7C+📊+R">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=2500&color=C8BE25&center=true&vCenter=true&width=600&height=100&lines=📊+Análisis+de+datos;⚙️+Automatización+de+procesos;🧠+De+datos+a+decisiones;🐍+Python+%7C+SQL+%7C+R+%7C+Power+BI">
 </a>
 </p>
 
 ---
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40"> About me
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40"> Sobre mí
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250"/>
 
 <br>
 
-- 📊 Data Analyst specialized in Business Intelligence and Automation  
-- 🧠 Transforming data into actionable insights for business decisions  
-- ⚙️ Skilled in Python, SQL, and R for analysis and automation  
-- 📈 Building data-driven solutions that improve business performance  
-- 🚀 Currently working as a Data Analyst and open to freelance opportunities  
-- 💬 Let’s connect — I’m always open to discussing data-driven projects  
-- 📫 Contact: wilkinterrero7@gmail.com  
+- 📊 Analista de datos con especialización en inteligencia de negocios y automatización  
+- 🧠 Transformo datos en información útil para tomar decisiones de negocio  
+- ⚙️ Experiencia en Python, SQL y R para análisis y automatización  
+- 📈 Creo soluciones basadas en datos que mejoran el rendimiento de los negocios  
+- 🚀 Actualmente trabajo como analista de datos y estoy disponible para proyectos independientes  
+- 💬 Conectemos: siempre me interesa conversar sobre proyectos basados en datos  
+- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/wilquin-terrero-p%C3%A9rez-8841b1230/)  
 
 ---
 
-## <💻> Tech Stack
+## 🚀 Proyecto destacado
 
-### 📊 Core Stack
+**[Monitor de Vuelos SDQ](https://github.com/wilquinterrero/monitor-vuelos-sdq)**: pipeline automatizado en R que recopila vuelos del aeropuerto SDQ vía API, los guarda en MariaDB y genera un reporte diario por correo, alertas y un dashboard de Power BI.
+
+---
+
+## <💻> Tecnologías
+
+### 📊 Tecnologías principales
 <p>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
@@ -42,7 +48,7 @@ Hi, I'm Wilquin Terrero
 
 ---
 
-### ⚙️ Data & Automation Tools
+### ⚙️ Herramientas de datos y automatización
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
@@ -54,7 +60,7 @@ Hi, I'm Wilquin Terrero
 
 ---
 
-### 🧰 Tools
+### 🧰 Herramientas
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -64,7 +70,7 @@ Hi, I'm Wilquin Terrero
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Conectemos
 <p>
 <a href="https://www.linkedin.com/in/wilquin-terrero-p%C3%A9rez-8841b1230/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -73,15 +79,11 @@ Hi, I'm Wilquin Terrero
 <a href="https://www.upwork.com/freelancers/~014c4098647d0b5962" target="_blank">
   <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
-
-<a href="mailto:wilkinterrero7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wilquinterrero&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilquinterrero&theme=tokyonight"/>
